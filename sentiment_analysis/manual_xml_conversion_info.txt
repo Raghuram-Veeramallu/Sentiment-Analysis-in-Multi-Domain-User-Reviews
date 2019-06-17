@@ -1,0 +1,6 @@
+
+Some manual conversion before proceeding with xml extraction to convert the pseudo xml to xml file:
+
+Replaced all & with &amp;
+Replaced all ' with &apos;
+Replaced all " with &quot;
